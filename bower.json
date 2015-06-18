@@ -1,0 +1,27 @@
+{
+  "name": "magical",
+  "version": "0.0.1",
+  "authors": [
+    "Alex <alex@bolord.com>"
+  ],
+  "description": "magical",
+  "moduleType": [
+    "amd",
+    "globals"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.4",
+    "jquery": "~2.1.4",
+    "material-colors": "~1.0.0",
+    "Hover": "~2.0.2"
+  }
+}

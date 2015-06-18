@@ -1,0 +1,38 @@
+{
+  "name": "magical",
+  "version": "0.0.1",
+  "description": "magical",
+  "main": "gulpfile.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bolord/magical.git"
+  },
+  "dependencies": {
+    "browser-sync": "^2.7.6",
+    "gulp-changed": "^1.2.1",
+    "del": "^1.2.0",
+    "gulp-concat": "^2.5.2",
+    "gulp-csso": "^1.0.0",
+    "gulp-if": "^1.2.5",
+    "gulp-jshint": "^1.11.0",
+    "gulp-less": "^3.0.3",
+    "gulp-load-plugins": "^0.10.0",
+    "gulp-size": "^1.2.1",
+    "gulp-sourcemaps": "^1.5.2",
+    "gulp-uglify": "^1.2.0",
+    "gulp": "^3.9.0",
+    "jshint-stylish": "^2.0.0",
+    "gulp-autoprefixer": "^2.3.1",
+    "run-sequence": "^1.1.0",
+    "stream-combiner2": "^1.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "magical"
+  ],
+  "author": "Alex <alex@bolord.com>",
+  "license": "MIT"
+}
