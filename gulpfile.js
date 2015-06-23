@@ -49,7 +49,7 @@ gulp.task('jshint', function () {
 // Copy web fonts to dist
 gulp.task('fonts', function () {
     return gulp.src([
-        'fonts/**/*.{eot, svg, ttf, woff, woff2}',
+        'fonts/**/*.{eot,svg,ttf,woff,woff2}',
         '!fonts/**/demo{,/**}'
     ])
     .pipe(gulp.dest('dist/fonts'))
